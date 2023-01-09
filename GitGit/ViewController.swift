@@ -15,5 +15,7 @@ class ViewController: UIViewController {
     }
 
 
+    @IBAction func btnAction1(_ sender: Any) {
+    }
 }
 
