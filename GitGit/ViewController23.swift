@@ -13,6 +13,7 @@ class ViewController23: UIViewController {
         super.viewDidLoad()
 
         print("*******")
+        print("*******")
     }
     
 
